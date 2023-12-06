@@ -1,3 +1,5 @@
+//program Yardan Safir 06.2021.1.07472 Tugas Basdat Lanjut App No SQL1
+
 const Redis = require('ioredis');
 const client = Redis.createClient();
 
