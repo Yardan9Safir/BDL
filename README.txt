@@ -6,5 +6,3 @@ cara menjalankan code:
 node redisTest2.js
 atau
 node + tekan Tab
-
-ddhajkdsadasn konttttl
